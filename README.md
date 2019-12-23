@@ -1,4 +1,4 @@
 # LZClear
 A CocoaPods Plugin.
 
-ReSolve the problem of failing to compile with the new build system in Xcode.
+Solve the problem that the compilation fails with the new build system and CocoaPods 1.5.2.
